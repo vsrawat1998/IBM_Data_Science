@@ -1,0 +1,19 @@
+We hope that you go through these 7 standard problems before coming -
+ 
+1. https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+2. https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
+3. https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+4. https://www.geeksforgeeks.org/coin-change-dp-7/
+5. https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
+6. https://www.interviewbit.com/problems/min-sum-path-in-matrix/
+7. https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
+ 
+Questions -
+ 
+1. https://www.interviewbit.com/problems/min-sum-path-in-matrix/
+2. https://leetcode.com/problems/dungeon-game/description/
+3. https://www.interviewbit.com/problems/max-rectangle-in-binary-matrix/
+4. https://www.interviewbit.com/problems/palindrome-partitioning-ii/
+5. https://www.spoj.com/problems/DSUBSEQ/
+6. https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/shooting-tanks-8dcc4adb/
+7. https://www.interviewbit.com/problems/flip-array/
